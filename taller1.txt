@@ -1,0 +1,22 @@
+//Taller #1: Figuras Geométricas
+//===============================
+//Calcular perímetro y área de las siguientes figuras geométricas
+// Cuadrado
+//=========
+// Perímetro = Lado +Lado +Lado + Lado , es lo mismo decir que: Lado * 4
+// área = Lado * Lado, es lo mismo decir que: Lado Elevado al cuadrado 2
+
+// Triángulo
+//==========
+// Perímetro = Lado + Lado + Lado;
+// área = (Base * Altura)/2
+
+// Círculo
+//==========
+// diámetro = (radio * 2)
+// perímetro = diámetro * PI
+// área = radio ^ 2  * PI
+
+//PI
+//===
+// Para entender en términos fáciles y prácticos pi es el coeficiente que multiplicado 3.1415… veces por su diámetro nos indica la longitud de la circunferencia.
