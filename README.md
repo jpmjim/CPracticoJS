@@ -1,5 +1,5 @@
 # CPracticoJS
-...
+... Usar un framework
 
 ## Taller #1: figuras geométricas
 
